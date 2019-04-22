@@ -1,0 +1,1 @@
+Part 1 indicates "Updating logging locations" and Part 2 indicates "Suggesting logging locations." 

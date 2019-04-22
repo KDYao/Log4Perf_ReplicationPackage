@@ -1,0 +1,1 @@
+This step intends to determine which logging location should be kept.
